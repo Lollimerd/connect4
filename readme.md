@@ -1,15 +1,24 @@
 # Connect 4 Game Documentation
 
 ## Table of Contents {#toc}
-1. [Project Overview](#project-overview)
-2. [Project Structure](#project-structure)
-3. [Game Features](#game-features)
-4. [Installation and Setup](#installation-and-setup)
-5. [Game Controls](#game-controls)
-6. [Game Modes](#game-modes)
-7. [AI Implementation](#ai-implementation)
-8. [Technical Details](#technical-details)
-9. [Future Enhancements](#future-enhancements)
+- [Connect 4 Game Documentation](#connect-4-game-documentation)
+  - [Table of Contents {#toc}](#table-of-contents-toc)
+  - [Project Overview ↑](#project-overview-)
+  - [Project Structure ↑](#project-structure-)
+  - [Game Features ↑](#game-features-)
+  - [Installation and Setup ↑](#installation-and-setup-)
+    - [Prerequisites](#prerequisites)
+    - [Installation Steps](#installation-steps)
+  - [Game Controls ↑](#game-controls-)
+  - [Game Modes ↑](#game-modes-)
+    - [Player vs Player](#player-vs-player)
+    - [Player vs Computer](#player-vs-computer)
+  - [AI Implementation ↑](#ai-implementation-)
+  - [Technical Details ↑](#technical-details-)
+    - [Board Representation](#board-representation)
+    - [Win Detection](#win-detection)
+    - [UI Rendering](#ui-rendering)
+  - [Future Enhancements ↑](#future-enhancements-)
 
 ## Project Overview [↑](#toc)
 
@@ -126,7 +135,7 @@ Potential future improvements for the game could include:
 
 ---
 
-This documentation was created on April 26, 2025.
+This documentation was created on April 26, 2025 vibecoded with `claude sonnet 4`
 
 ---
 
